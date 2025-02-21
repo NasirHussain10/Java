@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class IfStatement {
+public class IfElseStatement {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int age ;
