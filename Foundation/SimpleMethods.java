@@ -1,4 +1,4 @@
-public class Main {
+public class SimpleMethods {
     public static void sayHello() {
         System.out.println("Hello!");
     }
