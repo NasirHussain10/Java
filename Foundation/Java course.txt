@@ -1,0 +1,56 @@
+🧱 Beginner Level (Foundations)
+Setting up Java & an IDE (like IntelliJ or Eclipse)
+
+Hello World (your first program!)
+
+Variables & Data Types
+
+Operators (math, logical, etc.)
+
+Conditionals (if, else, switch)
+
+Loops (for, while, do-while)
+
+Arrays
+
+Methods (functions)
+
+Then move on to:
+
+🧰 Intermediate Level
+Object-Oriented Programming (OOP): Classes & Objects
+
+Inheritance, Polymorphism, Abstraction, Encapsulation
+
+Access Modifiers (public, private, etc.)
+
+Constructors
+
+Static vs Instance members
+
+Strings and String methods
+
+Collections (ArrayList, HashMap, etc.)
+
+Exception Handling (try, catch, throw, etc.)
+
+File I/O (reading/writing files)
+
+And finally:
+
+🧠 Advanced Level
+Multithreading & Concurrency
+
+Lambda Expressions & Streams
+
+Generics
+
+JavaFX (GUI applications)
+
+Networking (sockets, HTTP)
+
+JDBC (Java with databases)
+
+Design Patterns
+
+Spring Framework (for web dev)
